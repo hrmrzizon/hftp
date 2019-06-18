@@ -1,0 +1,8 @@
+hftp : http-based file transfer client
+
+this project made for termproject of network programming in KPU.
+
+- get, put method (assumption: http server has webdav) : we want to implement delete, propfind method, but there are not implemented..
+- multi-threaded (based on pthread)
+- mutliplexed (based on epoll/LT)
+- limited c-style polymorphism for http methods
