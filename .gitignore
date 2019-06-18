@@ -1,0 +1,16 @@
+*.o
+legacy/*
+*.swp
+*.swo
+*.swn
+*.vim
+
+test_http
+test_parse
+hftp
+
+test_data/*
+test_data_get/*
+test_data_put/*
+chunks/*
+
