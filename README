@@ -6,3 +6,5 @@ this project made for termproject of network programming in KPU.
 - multi-threaded (based on pthread)
 - mutliplexed (based on epoll/LT)
 - limited c-style polymorphism for http methods
+
+term project PT: http://bit.ly/2IR95rp											  
